@@ -1,0 +1,1 @@
+# Zaimplementuj funkcję map_nested, która stosuje funkcję do każdego elementu zagnieżdżonej listy.

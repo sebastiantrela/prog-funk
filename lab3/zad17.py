@@ -1,0 +1,1 @@
+# Napisz funkcję capitalize_all_words, która zamienia pierwszą literę każdego słowa w stringu na wielką literę.

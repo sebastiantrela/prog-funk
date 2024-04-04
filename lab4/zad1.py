@@ -1,0 +1,1 @@
+# Napisz funkcję, która przyjmuje listę liczb całkowitych i zwraca sumę wszystkich parzystych liczb w tej liście.

@@ -1,0 +1,1 @@
+# Napisz funkcję, która przyjmuje słownik i filtruje go, pozostawiając tylko te elementy, których wartości są liczbami parzystymi.

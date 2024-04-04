@@ -1,0 +1,1 @@
+# Napisz funkcję zip_with_index, która łączy elementy listy z ich indeksami.

@@ -1,0 +1,1 @@
+# Napisz funkcję double_list_elements, która przyjmuje listę liczb i zwraca nową listę, w której każdy element jest podwójny w stosunku do odpowiadającego elementu w pierwotnej liście.

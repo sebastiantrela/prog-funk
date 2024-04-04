@@ -1,0 +1,1 @@
+# Zdefiniuj funkcję rotate_list, która obraca listę o zadaną liczbę kroków w prawo.

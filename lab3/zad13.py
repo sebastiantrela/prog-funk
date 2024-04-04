@@ -1,0 +1,1 @@
+# Napisz funkcję split_list, która dzieli listę na podlisty o zadanej długości.

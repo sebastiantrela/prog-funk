@@ -1,0 +1,1 @@
+# Napisz funkcję, która generuje wszystkie permutacje elementów listy.

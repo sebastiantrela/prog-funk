@@ -1,0 +1,1 @@
+# Zdefiniuj funkcję partition_list, która dzieli listę na dwie części: jedną zawierającą elementy spełniające warunek, a drugą zawierającą pozostałe elementy.

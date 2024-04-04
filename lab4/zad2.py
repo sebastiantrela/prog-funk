@@ -1,0 +1,1 @@
+# Napisz funkcję, która przyjmuje string i zwraca nowy string, w którym wszystkie wielkie litery są zamienione na małe, a małe na wielkie.

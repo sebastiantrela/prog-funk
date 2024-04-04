@@ -1,0 +1,1 @@
+# Napisz funkcję, która zwraca najczęściej występujący element w liście. W przypadku remisu zwróć jeden z nich.

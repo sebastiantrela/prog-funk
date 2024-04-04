@@ -1,0 +1,1 @@
+# Napisz funkcję, która dzieli listę na części o określonej maksymalnej długości.

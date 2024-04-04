@@ -1,0 +1,1 @@
+# Napisz funkcję, która przyjmuje listę i funkcję, a następnie zwraca nową listę, gdzie każdy element jest wynikiem zastosowania funkcji do dotychczasowych elementów.

@@ -1,0 +1,1 @@
+# Napisz funkcję, która łączy dowolną liczbę słowników w jeden słownik, gdzie wartości dla powtarzających się kluczy są sumowane.
