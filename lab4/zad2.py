@@ -1,1 +1,6 @@
-# Napisz funkcję, która przyjmuje string i zwraca nowy string, w którym wszystkie wielkie litery są zamienione na małe, a małe na wielkie.
+def swap_case(s):
+    return s.swapcase()
+
+my_string = "Hello wOrlD!"
+
+print(swap_case(my_string))

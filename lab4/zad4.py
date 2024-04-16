@@ -1,1 +1,7 @@
-# Napisz funkcję, która przyjmuje exponent i zwraca funkcję, która podnosi podaną liczbę do potęgi określonej przez ten exponent.
+def power_function(exponent):
+    return lambda x: x**exponent
+
+square = power_function(2)
+result = square(5)
+
+print(result)
